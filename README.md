@@ -1,52 +1,47 @@
 <p align="center">
-  <a href="https://www.thehelpers.tech/"><img src="assets/the-helper-wordmark.png" alt="THE HELPER" width="160"></a>
+  <a href="https://www.thehelpers.tech/"><img src="assets/the-helper-wordmark.png" alt="THE HELPER" width="145"></a>
 </p>
 
 <h1 align="center">THE HELPER</h1>
-
-<p align="center">A student-run library and study toolkit for SRMIST.</p>
-
-<p align="center">
-  <a href="https://www.thehelpers.tech/"><strong>Open the website ↗</strong></a> ·
-  <a href="https://www.thehelpers.tech/semesters">Browse resources</a> ·
-  <a href="https://www.thehelpers.tech/feedback">Share feedback</a>
-</p>
-
-## Find what you need before the next exam
-
-THE HELPER brings notes, previous-year question papers (PYQs), syllabuses and study tools into one place. Pick a semester, find your subject and open available material in the browser. The resource library is free to browse without signing in.
-
-| Explore | What you can do |
-| --- | --- |
-| [Resource library](https://www.thehelpers.tech/semesters) | Browse semesters I–VIII, search for a subject and open its available notes, PYQs and syllabus. |
-| [HelperStudy+](https://www.thehelpers.tech/study-plus) | Plan exams, revise with flashcards, make formula sheets and run a focus timer. |
-| [HelperGPA+](https://www.thehelpers.tech/helper-gpa) | Calculate GPA or CGPA and estimate the final-exam score needed for a target grade. |
-| [HelperDocs+](https://www.thehelpers.tech/helper-docs) | Merge, split, compress or convert files using tools that run in your browser. |
-| [Academia ReVanced](https://www.thehelpers.tech/academia-revanced) | Explore a student-built browser extension for the Academia dashboard. |
-
-## Meet Proxy
-
-Proxy is the study buddy who introduces the site. The optional **GTA VI Theme** adds a curtain intro, custom Proxy outfits and a coastal city-map backdrop across the site. Open the theme from the navigation bar to try it.
+<p align="center">Notes, past papers and study tools for SRMIST students.</p>
 
 <p align="center">
-  <img src="assets/proxy-mobile.jpg" alt="The THE HELPER home page on mobile, with Proxy and semester shortcuts" width="245">
-  <img src="assets/study-plus-desktop.jpg" alt="The HelperStudy+ tool directory on desktop" width="540">
+  <a href="https://www.thehelpers.tech/"><img src="https://img.shields.io/badge/Open_THE_HELPER-5E17EB?style=for-the-badge" alt="Open THE HELPER"></a>
+  <a href="https://github.com/nabeelahmad10/the-helper-showcase"><img src="https://img.shields.io/github/stars/nabeelahmad10/the-helper-showcase?style=for-the-badge&color=5E17EB&label=Star%20on%20GitHub" alt="Star THE HELPER on GitHub"></a>
 </p>
 
-## Built by students
+## Hey, I’m Nabeel.
 
-- [Contributors](https://www.thehelpers.tech/contributors) — meet the students who share notes and study material.
-- [Initiatives](https://www.thehelpers.tech/initiatives) — explore student projects, events and hackathons.
-- [Partnerships](https://www.thehelpers.tech/partnerships) — see who has helped bring those projects to campus.
-- [Feedback](https://www.thehelpers.tech/feedback) — suggest a feature, report a broken link or tell us about missing material.
-- [Instagram](https://www.instagram.com/thehelperinsta/) — follow project updates.
+I built THE HELPER because I know what it’s like to have an exam coming up and still be hunting for the right notes. You know the subject you need. You just want to find the material and get on with studying.
 
-## Support the project
+So I made a place where you can pick your semester, open your subject and get to the notes, syllabus or previous-year paper you came for. I wanted it to be the kind of link you could send to a classmate and say, “Here, start with this.”
 
-If THE HELPER saved you a little time, click **Star** at the top of this GitHub page or share the site with a classmate.
+<p align="center">
+  <img src="assets/original-home.png" alt="An early THE HELPER homepage in purple and cream, with Proxy beside the resource search" width="760">
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/nabeelahmad10/the-helper-showcase?style=flat-square&label=GitHub%20stars)](https://github.com/nabeelahmad10/the-helper-showcase)
+## If you’re here to study
 
-This public showcase contains documentation and screenshots. THE HELPER is student-run and independent of SRMIST.
+- [**Browse resources**](https://www.thehelpers.tech/semesters) — find notes, previous-year question papers (PYQs) and syllabuses by subject across Semesters I–VIII. The library is free to browse without signing in.
+- [**HelperStudy+**](https://www.thehelpers.tech/study-plus) — plan your exams, make flashcards or a formula sheet, or start a focus timer.
+- [**HelperGPA+**](https://www.thehelpers.tech/helper-gpa) — work out your GPA, CGPA or the final-exam score you need for a target grade.
+- [**HelperDocs+**](https://www.thehelpers.tech/helper-docs) — merge, split, compress or convert files in your browser.
+- [**Academia ReVanced**](https://www.thehelpers.tech/academia-revanced) — explore the student-built browser extension for the Academia dashboard.
+
+## A little hello from Proxy
+
+I added Proxy, the purple study buddy you’ll meet on the site, because I wanted the welcome to feel like there’s a person on the other side of it. Proxy can show you around, and there’s a short note from me at the end of the tour.
+
+## Help the next person find what they need
+
+If a paper is missing, a link is broken or you have material that could help someone else, [tell me here](https://www.thehelpers.tech/feedback). You can also [meet the students who contribute](https://www.thehelpers.tech/contributors), see what we’ve been doing [on campus](https://www.thehelpers.tech/initiatives) or [with partners](https://www.thehelpers.tech/partnerships), and follow updates on [Instagram](https://www.instagram.com/thehelperinsta/).
+
+If THE HELPER saved you some time, share it with a classmate or hit **Star** at the top of this GitHub page. I’m glad you’re here.
+
+— **Nabeel Ahmad**, founder of THE HELPER
+
+---
+
+THE HELPER is a student-run project independent of SRMIST. This repository is the public project showcase.
 
 [Privacy](https://www.thehelpers.tech/privacy) · [Terms](https://www.thehelpers.tech/terms) · [Copyright and content](https://www.thehelpers.tech/copyright)
